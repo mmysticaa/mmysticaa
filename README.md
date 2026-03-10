@@ -30,7 +30,7 @@
 
 | project | description |
 |--------|-------------|
-| [fstnode.com](https://fstnode.com) | 🔧 A Game Server Hosting Service that aims to provide great preformance for an affordable price. Still a work in possible! |
+| [fstnode.com](https://fstnode.com) | 🔧 A Game Server Hosting Service that aims to provide great preformance for an affordable price. Still a work in progress! |
 
 ---
 
